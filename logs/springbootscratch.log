@@ -1,0 +1,324 @@
+TimeStamp: 2018-06-25 13:47:58.451 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  com.Jayant.Main 
+MessageId: #0# 
+Message:   Starting Main on WPUJS84661L with PID 5544 (started by js84661 in C:\Users\js84661\Desktop\My Stuff\SpringBoot2\SpringBootScratch) 
+
+TimeStamp: 2018-06-25 13:47:58.558 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  com.Jayant.Main 
+MessageId: #0# 
+Message:   No active profile set, falling back to default profiles: default 
+
+TimeStamp: 2018-06-25 13:47:58.851 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext 
+MessageId: #0# 
+Message:   Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5a63f509: startup date [Mon Jun 25 13:47:58 IST 2018]; root of context hierarchy 
+
+TimeStamp: 2018-06-25 13:48:01.857 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 
+MessageId: #0# 
+Message:   Tomcat initialized with port(s): 8080 (http) 
+
+TimeStamp: 2018-06-25 13:48:01.888 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.apache.coyote.http11.Http11NioProtocol 
+MessageId: #0# 
+Message:   Initializing ProtocolHandler ["http-nio-8080"] 
+
+TimeStamp: 2018-06-25 13:48:01.904 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.apache.catalina.core.StandardService 
+MessageId: #0# 
+Message:   Starting service [Tomcat] 
+
+TimeStamp: 2018-06-25 13:48:01.904 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.apache.catalina.core.StandardEngine 
+MessageId: #0# 
+Message:   Starting Servlet Engine: Apache Tomcat/8.5.28 
+
+TimeStamp: 2018-06-25 13:48:01.919 
+AppId:     default 
+User:       
+Thread:    localhost-startStop-1 
+Severity:  INFO 
+Category:  org.apache.catalina.core.AprLifecycleListener 
+MessageId: #0# 
+Message:   The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_45\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Windows\CCM;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Java\jre7\bin;C:\PROGRA~2\Java\jre7\bin;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\Program Files\Java\jdk1.8.0_45\bin;C:\SOFTWARE\apache-maven-3.1.1\bin;C:\Program Files\Java\jdk1.8.0_45\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\mingw32\bin;C:\Program Files (x86)\Git\usr\bin;C:\Program Files (x86)\PuTTY;C:\Program Files\nodejs;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Oracle\product\11.2.0\client_u90\bin;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin;C:\Users\js84661\AppData\Local\Microsoft\WindowsApps;C:\Users\js84661\AppData\Roaming\npm;;.] 
+
+TimeStamp: 2018-06-25 13:48:02.122 
+AppId:     default 
+User:       
+Thread:    localhost-startStop-1 
+Severity:  INFO 
+Category:  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] 
+MessageId: #0# 
+Message:   Initializing Spring embedded WebApplicationContext 
+
+TimeStamp: 2018-06-25 13:48:02.138 
+AppId:     default 
+User:       
+Thread:    localhost-startStop-1 
+Severity:  INFO 
+Category:  org.springframework.web.context.ContextLoader 
+MessageId: #0# 
+Message:   Root WebApplicationContext: initialization completed in 3287 ms 
+
+TimeStamp: 2018-06-25 13:48:02.295 
+AppId:     default 
+User:       
+Thread:    localhost-startStop-1 
+Severity:  INFO 
+Category:  org.springframework.boot.web.servlet.ServletRegistrationBean 
+MessageId: #0# 
+Message:   Servlet dispatcherServlet mapped to [/] 
+
+TimeStamp: 2018-06-25 13:48:02.295 
+AppId:     default 
+User:       
+Thread:    localhost-startStop-1 
+Severity:  INFO 
+Category:  org.springframework.boot.web.servlet.FilterRegistrationBean 
+MessageId: #0# 
+Message:   Mapping filter: 'characterEncodingFilter' to: [/*] 
+
+TimeStamp: 2018-06-25 13:48:02.295 
+AppId:     default 
+User:       
+Thread:    localhost-startStop-1 
+Severity:  INFO 
+Category:  org.springframework.boot.web.servlet.FilterRegistrationBean 
+MessageId: #0# 
+Message:   Mapping filter: 'hiddenHttpMethodFilter' to: [/*] 
+
+TimeStamp: 2018-06-25 13:48:02.310 
+AppId:     default 
+User:       
+Thread:    localhost-startStop-1 
+Severity:  INFO 
+Category:  org.springframework.boot.web.servlet.FilterRegistrationBean 
+MessageId: #0# 
+Message:   Mapping filter: 'httpPutFormContentFilter' to: [/*] 
+
+TimeStamp: 2018-06-25 13:48:02.310 
+AppId:     default 
+User:       
+Thread:    localhost-startStop-1 
+Severity:  INFO 
+Category:  org.springframework.boot.web.servlet.FilterRegistrationBean 
+MessageId: #0# 
+Message:   Mapping filter: 'requestContextFilter' to: [/*] 
+
+TimeStamp: 2018-06-25 13:48:02.857 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter 
+MessageId: #0# 
+Message:   Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5a63f509: startup date [Mon Jun 25 13:47:58 IST 2018]; root of context hierarchy 
+
+TimeStamp: 2018-06-25 13:48:02.920 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping 
+MessageId: #0# 
+Message:   Mapped "{[/students/exception]}" onto public java.lang.String com.Jayant.Controller.StudentController.exception() 
+
+TimeStamp: 2018-06-25 13:48:02.920 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping 
+MessageId: #0# 
+Message:   Mapped "{[/students],methods=[GET]}" onto public java.util.Collection<com.Jayant.Entity.Student> com.Jayant.Controller.StudentController.getAllStudents() 
+
+TimeStamp: 2018-06-25 13:48:02.920 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping 
+MessageId: #0# 
+Message:   Mapped "{[/students],methods=[POST],consumes=[application/json]}" onto public void com.Jayant.Controller.StudentController.insertStudent(com.Jayant.Entity.Student) 
+
+TimeStamp: 2018-06-25 13:48:02.920 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping 
+MessageId: #0# 
+Message:   Mapped "{[/students/{id}],methods=[GET]}" onto public com.Jayant.Entity.Student com.Jayant.Controller.StudentController.getStudentById(int) 
+
+TimeStamp: 2018-06-25 13:48:02.920 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping 
+MessageId: #0# 
+Message:   Mapped "{[/students],methods=[PUT],consumes=[application/json]}" onto public void com.Jayant.Controller.StudentController.updateStudent(com.Jayant.Entity.Student) 
+
+TimeStamp: 2018-06-25 13:48:02.920 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping 
+MessageId: #0# 
+Message:   Mapped "{[/students/{id}],methods=[DELETE]}" onto public void com.Jayant.Controller.StudentController.deleteStudentByid(int) 
+
+TimeStamp: 2018-06-25 13:48:02.935 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping 
+MessageId: #0# 
+Message:   Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest) 
+
+TimeStamp: 2018-06-25 13:48:02.935 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping 
+MessageId: #0# 
+Message:   Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) 
+
+TimeStamp: 2018-06-25 13:48:02.967 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping 
+MessageId: #0# 
+Message:   Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+
+TimeStamp: 2018-06-25 13:48:02.967 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping 
+MessageId: #0# 
+Message:   Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+
+TimeStamp: 2018-06-25 13:48:02.998 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping 
+MessageId: #0# 
+Message:   Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler] 
+
+TimeStamp: 2018-06-25 13:48:03.265 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.jmx.export.annotation.AnnotationMBeanExporter 
+MessageId: #0# 
+Message:   Registering beans for JMX exposure on startup 
+
+TimeStamp: 2018-06-25 13:48:03.312 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.apache.coyote.http11.Http11NioProtocol 
+MessageId: #0# 
+Message:   Starting ProtocolHandler ["http-nio-8080"] 
+
+TimeStamp: 2018-06-25 13:48:03.312 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.apache.tomcat.util.net.NioSelectorPool 
+MessageId: #0# 
+Message:   Using a shared selector for servlet write/read 
+
+TimeStamp: 2018-06-25 13:48:03.343 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  org.springframework.boot.web.embedded.tomcat.TomcatWebServer 
+MessageId: #0# 
+Message:   Tomcat started on port(s): 8080 (http) with context path '' 
+
+TimeStamp: 2018-06-25 13:48:03.343 
+AppId:     default 
+User:       
+Thread:    main 
+Severity:  INFO 
+Category:  com.Jayant.Main 
+MessageId: #0# 
+Message:   Started Main in 7.185 seconds (JVM running for 12.5) 
+
+TimeStamp: 2018-06-25 13:51:21.163 
+AppId:     default 
+User:       
+Thread:    http-nio-8080-exec-1 
+Severity:  INFO 
+Category:  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] 
+MessageId: #0# 
+Message:   Initializing Spring FrameworkServlet 'dispatcherServlet' 
+
+TimeStamp: 2018-06-25 13:51:21.163 
+AppId:     default 
+User:       
+Thread:    http-nio-8080-exec-1 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.DispatcherServlet 
+MessageId: #0# 
+Message:   FrameworkServlet 'dispatcherServlet': initialization started 
+
+TimeStamp: 2018-06-25 13:51:21.184 
+AppId:     default 
+User:       
+Thread:    http-nio-8080-exec-1 
+Severity:  INFO 
+Category:  org.springframework.web.servlet.DispatcherServlet 
+MessageId: #0# 
+Message:   FrameworkServlet 'dispatcherServlet': initialization completed in 21 ms 
+
+TimeStamp: 2018-06-25 13:51:55.056 
+AppId:     default 
+User:       
+Thread:    http-nio-8080-exec-10 
+Severity:  INFO 
+Category:  com.Jayant.Controller.StudentController 
+MessageId: #0# 
+Message:   Getting all students..... 
+
